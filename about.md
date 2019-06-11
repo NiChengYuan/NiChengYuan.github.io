@@ -4,13 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am from the Republic of China, I am a graduate student!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am from the Republic of China, I am a graduate student.
 
 ### Contact me
 
-[email@domain.com](mailto:nifrankni52@gmail.com)
+[nifrankni52@gmail.com](mailto:nifrankni52@gmail.com)
 
